@@ -1,5 +1,5 @@
 # Feminist Perspectives for ML & CV: A Reading List
-This page serves as a continuation of our discussion at the 2020 WiML UnWorkshop. To learn more about this reading list and how to contribute to it, see the FAQ.
+This page serves as a continuation of our discussion at the 2020 WiML UnWorkshop. To learn more about this reading list and how to contribute to it, see the [FAQ](FAQ.md).
 
 ## Referenced in Our Presentation
 - [Gender Shades](http://gendershades.org/) by Joy Buolamwini & Timnit Gebru
