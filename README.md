@@ -2,6 +2,7 @@
 This page serves as a continuation of our discussion at the 2020 WiML UnWorkshop. To learn more about this reading list and how to contribute to it, see the [FAQ](FAQ.md).
 
 ## Referenced in Our Presentation
+- [Data Feminism](http://datafeminism.io/) by Catherine D'Ignazio and Lauren Klein
 - [Gender Shades](http://gendershades.org/) by Joy Buolamwini & Timnit Gebru
 - we haven't actually made the presenation yet but we'll compile all the projects / books / papers / etc we referenced here
 - we can also add additional sections for the topics we decide to discuss; for example, we might have subsections with additional resources on intersectionality, classification, representation in tech, etc.
