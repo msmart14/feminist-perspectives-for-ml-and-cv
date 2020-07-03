@@ -2,12 +2,12 @@
 This page serves as a continuation of our discussion at the 2020 WiML UnWorkshop. To learn more about this reading list and how to contribute to it, see the [FAQ](FAQ.md).
 
 ## Referenced in Our Presentation
-- [Data Feminism](http://datafeminism.io/) by Catherine D'Ignazio and Lauren Klein
+- [Data Feminism](http://datafeminism.io/) by Catherine D'Ignazio & Lauren Klein
 - [Feminism is for Everybody: Passionate Politics](http://www.worldcat.org/oclc/941177626) by bell hooks
 - [Demarginalizing the intersection of race and sex: A black feminist critique of antidiscrimination doctrine, feminist theory and antiracist politics](https://heinonline.org/HOL/P?h=hein.journals/uchclf1989&i=143) by Kimberlé Crenshaw
 - [The Combahee River Collective statement](http://circuitous.org/scraps/combahee.html)
 - [Gender Shades](http://gendershades.org/) by Joy Buolamwini & Timnit Gebru
-- [Large image datasets: A pyrrhic win for computer vision?](https://openreview.net/forum?id=s-e2zaAlG3I)
+- [Large image datasets: A pyrrhic win for computer vision?](https://arxiv.org/abs/2006.16923) by Vinay Uday Prabhu & Abeba Birhane
 
 ## Intersectionality
 - [Age, Race, Class, and Sex: Women Redefining Difference](https://www.colorado.edu/odece/sites/default/files/attached-files/rba09-sb4converted_8.pdf) by Audre Lorde
