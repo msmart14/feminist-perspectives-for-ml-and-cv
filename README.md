@@ -26,6 +26,7 @@ This page serves as a continuation of our discussion at the 2020 WiML UnWorkshop
 - [2020 Vision: Reimagining the Default Settings of Technology & Society](https://iclr.cc/virtual_2020/speaker_3.html) by Ruha Benjamin
 - [FATE/CV Tutorial](https://sites.google.com/view/fatecv-tutorial/schedule) by Timnit Gebru & Emily Denton
 - [AI, Ain't I A Woman?](https://www.youtube.com/watch?v=QxuyfWoVV98) by Joy Buolamwini
+- [Talking Data Feminism with Catherine D'Ignazio and Lauren F. Klein](https://www.youtube.com/watch?time_continue=268&v=pmNEe6Fvdu)
 
 ## Groups & Organizations
 - [Women in Machine Learning](https://wimlworkshop.org/)
