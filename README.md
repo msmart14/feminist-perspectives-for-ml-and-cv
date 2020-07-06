@@ -8,6 +8,7 @@ This page serves as a continuation of our discussion at the 2020 WiML UnWorkshop
 - [The Combahee River Collective statement](http://circuitous.org/scraps/combahee.html)
 - [Gender Shades](http://gendershades.org/) by Joy Buolamwini & Timnit Gebru
 - [Large image datasets: A pyrrhic win for computer vision?](https://arxiv.org/abs/2006.16923) by Vinay Uday Prabhu & Abeba Birhane
+- [Algorithms of Oppression](http://algorithmsofoppression.com/) by Safiya Umoja Noble
 
 ## Intersectionality
 - [Age, Race, Class, and Sex: Women Redefining Difference](https://www.colorado.edu/odece/sites/default/files/attached-files/rba09-sb4converted_8.pdf) by Audre Lorde
@@ -36,6 +37,7 @@ This page serves as a continuation of our discussion at the 2020 WiML UnWorkshop
 - [{Dis}Ability in AI](https://elesa.github.io/ability_in_AI/)
 - [Indigenous AI](https://www.indigenous-ai.net/)
 - [Data for Black Lives](http://d4bl.org/)
+- [Feminist.AI](https://www.feminist.ai/)
 
 ## Additional Reading Lists & Resources
 - [Data Feminism Reading Group Playlist](https://www.youtube.com/playlist?list=PL6eSH4cAj3BdS2u4wAxNkIVI-uVqjA53v)
