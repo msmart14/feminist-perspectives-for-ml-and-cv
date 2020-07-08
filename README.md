@@ -9,6 +9,7 @@ This page serves as a continuation of our discussion at the 2020 WiML UnWorkshop
 - [Gender Shades](http://gendershades.org/) by Joy Buolamwini & Timnit Gebru
 - [Large image datasets: A pyrrhic win for computer vision?](https://arxiv.org/abs/2006.16923) by Vinay Uday Prabhu & Abeba Birhane
 - [Algorithms of Oppression](http://algorithmsofoppression.com/) by Safiya Umoja Noble
+- [2020 Vision: Reimagining the Default Settings of Technology & Society](https://iclr.cc/virtual_2020/speaker_3.html) by Ruha Benjamin
 
 ## Intersectionality
 - [Age, Race, Class, and Sex: Women Redefining Difference](https://www.colorado.edu/odece/sites/default/files/attached-files/rba09-sb4converted_8.pdf) by Audre Lorde
@@ -24,10 +25,9 @@ This page serves as a continuation of our discussion at the 2020 WiML UnWorkshop
 
 ## Talks & Videos
 - [How Machine Learning Research Shifts Power](https://slideslive.com/38923453/the-values-of-machine-learning) by Pratyusha Ria Kalluri
-- [2020 Vision: Reimagining the Default Settings of Technology & Society](https://iclr.cc/virtual_2020/speaker_3.html) by Ruha Benjamin
 - [FATE/CV Tutorial](https://sites.google.com/view/fatecv-tutorial/schedule) by Timnit Gebru & Emily Denton
 - [AI, Ain't I A Woman?](https://www.youtube.com/watch?v=QxuyfWoVV98) by Joy Buolamwini
-- [Talking Data Feminism with Catherine D'Ignazio and Lauren F. Klein](https://www.youtube.com/watch?v=pmNEe6FvduM) by Catherine D'Ignazio and Lauren F. Klein 
+- [Talking Data Feminism with Catherine D'Ignazio and Lauren F. Klein](https://www.youtube.com/watch?v=pmNEe6FvduM) by Catherine D'Ignazio and Lauren F. Klein
 
 ## Groups & Organizations
 - [Women in Machine Learning](https://wimlworkshop.org/)
