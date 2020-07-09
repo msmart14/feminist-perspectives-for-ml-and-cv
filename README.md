@@ -18,6 +18,7 @@ This page serves as a continuation of our discussion at the 2020 WiML UnWorkshop
 ## Diversity, Equity, & Inclusion
 - [HCI Guidelines for Gender Equity and Inclusivity](https://www.morgan-klaus.com/gender-guidelines.html) by Morgan Klaus Scheuerman, Katta Spiel, Oliver L. Haimson, Foad Hamidi, & Stacy M. Branham
 - [Discriminating Systems: Gender, Race, and Power in AI](https://ainowinstitute.org/discriminatingsystems.pdf) by Sarah Myers West, Meredith Whittaker, & Kate Crawford
+- [Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective](https://philpapers.org/archive/harskt.pdf) by Donna Haraway
 
 ## Critiquing Classification
 - [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/) by Kate Crawford & Trevor Paglen  
